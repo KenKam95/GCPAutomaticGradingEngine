@@ -29,3 +29,5 @@ Move to the *Cloud Funtion* in Google Cloud Platform
 ![This is an image](https://github.com/KenKam95/GCPAutomaticGradingEngine/blob/main/readme/function.PNG)
 
 <h4>Deploy the code after clicking next(You can also modify the case here)</h4>
+
+![This is an image](https://github.com/KenKam95/GCPAutomaticGradingEngine/blob/main/readme/function_deploy.PNG)
