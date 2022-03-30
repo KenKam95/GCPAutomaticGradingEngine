@@ -1,6 +1,6 @@
 # GCPAutomaticGradingEngine
 An automatic Grading Engine on Google Cloud Platform
-# Demo
+# Demo-video
 [![Watch the video](https://github.com/KenKam95/GCPAutomaticGradingEngine/blob/main/readme/videoThumbnail.png)](https://www.youtube.com/watch?v=moFyP4AO9oY)
 
 # Hosting the Web Host
