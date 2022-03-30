@@ -1,4 +1,5 @@
 # GCPAutomaticGradingEngine
+An automatic Grading Engine on Google Cloud Platform
 # Demo
 # Hosting the Web Host
 To let student register and showing the grade, we need to create Virtual machine to host the web
