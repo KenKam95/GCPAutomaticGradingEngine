@@ -1,6 +1,13 @@
 # GCPAutomaticGradingEngine
 An automatic Grading Engine on Google Cloud Platform
 # Demo
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=moFyP4AO9oY&ab_channel=KenKam"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 # Hosting the Web Host
 To let student register and showing the grade, we need to create Virtual machine to host the web
 ### Before hosting
