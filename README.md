@@ -31,3 +31,5 @@ Move to the *Cloud Funtion* in Google Cloud Platform
 <h3>Deploy the code after clicking next(You can also modify the case here)</h3><br><br><br>
 
 ![This is an image](https://github.com/KenKam95/GCPAutomaticGradingEngine/blob/main/readme/function_deploy.PNG)
+
+<h3>And you done with deploy your code in your account!!!</h3>
