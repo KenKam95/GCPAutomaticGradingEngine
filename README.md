@@ -20,3 +20,8 @@ Launch the App
 ```
 streamlit run app.py
 ```
+
+### To run the engine
+Move to the *Cloud Funtion* in Google Cloud Platform
+Create function with Full access service account
+![This is an image](https://github.com/KenKam95/GCPAutomaticGradingEngine/blob/main/readme/function.PNG)
