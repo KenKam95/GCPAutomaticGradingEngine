@@ -9,7 +9,8 @@ After that, Install with requirements.txt
 pip3 install -r requirements.txt
 ```
 ### To start the Web app
-### Deploy the WebHosting code to a virtual machine
+Deploy the WebHosting code to a virtual machine at first
+
 Run the virtual environment in project file
 ```
 pipenv shell
